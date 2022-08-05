@@ -5,10 +5,9 @@
 </div>
 
 ##
-### Olá, eu sou <b>Raphael Alves</b>. 😎
-##
+# Olá, eu sou <b>Raphael Alves</b>. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" heigth="30px">
 
-Por aqui você conhecerá mais sobre meus estudos, contribuições e tecnologias que trabalho atualmente. (e um pouco sobre mim também kkkk 😂)
+##Por aqui você conhecerá mais sobre meus estudos, contribuições e tecnologias que trabalho atualmente. (e um pouco sobre mim também kkkk 😂)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
